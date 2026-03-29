@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics
+python-multipart
+pillow
+torch
+torchvision
+tqdm
+pyyaml
+numpy
